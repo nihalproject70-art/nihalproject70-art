@@ -121,7 +121,7 @@ To become an AI Engineer and Full-Stack Developer by building intelligent, scala
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/niyal-ahmed-n-b79b83310/
-* 🌐 Portfolio: https://nihal-protfolio.vercel.app/
+* 🌐 Portfolio: https://nihal-portfolio-lovat.vercel.app/
 * 📧 Email: nihalahmed55nihal@gmail.com
 
 ---
