@@ -1,8 +1,8 @@
-# Hi there, I'm Nihal Ahmed N👋
+# Hi there, I'm Nihal Ahmed 👋
 
 ### 🎓 AI & Data Science Student | 💻 MERN Stack Developer | 🤖 Local AI Developer
 
-I'm passionate about building modern web applications, AI-powered solutions, and intelligent automation. I enjoy creating real-world projects that combine web technologies with Artificial Intelligence to solve practical problems.
+I'm an AI & Data Science student passionate about building modern web applications, AI-powered solutions, and intelligent automation. I enjoy creating real-world projects by combining MERN Stack development, Local AI, and cloud technologies to solve practical problems.
 
 ---
 
@@ -18,7 +18,7 @@ I'm passionate about building modern web applications, AI-powered solutions, and
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend Development
 
 * HTML5
 * CSS3
@@ -27,30 +27,41 @@ I'm passionate about building modern web applications, AI-powered solutions, and
 * Vite
 * Tailwind CSS
 
-### Backend
+### ⚙️ Backend Development
 
 * Node.js
 * Express.js
 * REST APIs
 
-### Database & Cloud
+### 🗄️ Database & Cloud
 
 * MongoDB
 * Firebase
 * Cloudinary
+* Cloud Application Development
 
-### AI & Automation
+### 🤖 AI & Automation
 
 * Local AI Models
 * Discord Bot Integration
 * AI Automation
 * AI Integration for Web Applications
+* LLM Integration
 
-### Tools
+### 🔧 Tools
 
 * Git
 * GitHub
 * VS Code
+* Postman
+
+---
+
+## 🧰 Skills & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,git,github,vscode,python" />
+</p>
 
 ---
 
@@ -58,46 +69,58 @@ I'm passionate about building modern web applications, AI-powered solutions, and
 
 ### 🤖 Local AI Discord Assistant
 
-* Built a local AI-powered Discord assistant running on my PC.
-* Integrated a local AI model with Discord.
-* Supports natural language commands.
-* Automatically searches and opens requested songs on YouTube.
-* Built as an AI automation project.
+A local AI-powered Discord assistant running on my personal computer.
+
+**Features**
+
+* 🧠 Local AI model integration
+* 💬 Discord chatbot functionality
+* 🎵 Natural language commands
+* ▶️ Automatically searches and opens requested songs on YouTube
+* ⚡ AI-powered automation workflow
 
 ---
 
 ### 🏥 Stars Speech & Hearing Clinic
 
-A responsive healthcare website UI/UX built using React.js and Tailwind CSS.
+A responsive healthcare website UI/UX project built using React.js and Tailwind CSS.
+
+**Features**
+
+* ✅ Responsive healthcare design
+* ✅ Service-based page structure
+* ✅ SEO-friendly implementation
+* ✅ Mobile-friendly UI
 
 **Current Status**
 
-* ✅ Responsive UI
-* ✅ SEO-friendly structure
-* 🚧 Backend & automation in progress
+* 🚧 Backend integration and appointment automation planned
 
 ---
 
 ### 🛒 RJ Nuts Shop
 
-A modern e-commerce website featuring:
+A modern e-commerce website for an online nuts and dry fruits business.
 
-* Firebase Integration
-* Razorpay Payment Gateway
-* Cloudinary Image Management
-* Responsive Design
+**Features**
+
+* 🛍️ Product showcase
+* 🔥 Firebase integration
+* ☁️ Cloudinary image management
+* 💳 Razorpay payment integration
+* 📱 Responsive design
 
 ---
 
 ### 🌐 WeaverLeaders
 
-Client web project focused on delivering a modern and professional web experience.
+Client web project focused on creating a modern and professional digital experience.
 
 ---
 
 ### 🧸 Lohi Toys Shop
 
-Business website with a clean UI, responsive design, and product showcase.
+Business website with clean UI, responsive design, and product showcase.
 
 ---
 
@@ -118,14 +141,48 @@ To become an AI Engineer and Full-Stack Developer by building intelligent, scala
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-* 💼 LinkedIn: https://www.linkedin.com/in/niyal-ahmed-n-b79b83310/
-* 🌐 Portfolio: nihal-protfolio.vercel.app
-* 📧 Email: nihalahmed55nihal@gmail.com
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nihalproject70-art&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalproject70-art&theme=tokyonight" />
+
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my GitHub profile!
+## 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalproject70-art&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nihalproject70-art&theme=tokyonight&row=1" />
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/niyal-ahmed-n-b79b83310/
+
+🌐 Portfolio: https://nihal-protfolio.vercel.app
+
+📧 Email: nihalahmed55nihal@gmail.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
 
 *"Building intelligent solutions with code, creativity, and AI."*
